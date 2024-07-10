@@ -1,8 +1,8 @@
-#Library Management System with Postgre SQL tables
+# Library Management System with Postgre SQL tables
 
 ## Author
 
-![Ekran Görüntüsü (57)](https://github.com/gonciii/LibraryManagementSystem/assets/114026990/4a6d2173-371b-4547-8754-3e1c1e847d73)
+![authors](https://github.com/gonciii/LibraryManagementSystem/assets/114026990/6f6c9064-95dd-46bb-8b23-bcb2863f328a)
 
 ## Books
 
@@ -19,7 +19,7 @@
 ## BookBorrowings
 ![book_borrowing](https://github.com/gonciii/LibraryManagementSystem/assets/114026990/04392377-dcbc-4328-94c3-407feb1e0c23)
 
-## Book Categories
+## Book Category
 
 ![book_category](https://github.com/gonciii/LibraryManagementSystem/assets/114026990/802b661c-713a-4f06-b43c-b5cff658ff2d)
 
