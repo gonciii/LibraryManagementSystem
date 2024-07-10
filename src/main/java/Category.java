@@ -25,6 +25,7 @@ public class Category {
     @ManyToMany(mappedBy = "categoryList")
     private List<Book> bookList;
 
+    // getter ve setter methodlar
     public Category() {
 
     }

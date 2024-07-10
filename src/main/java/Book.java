@@ -52,6 +52,7 @@ public class Book {
 
     }
 
+    // getter ve setter methods
     public int getId() {
         return id;
     }

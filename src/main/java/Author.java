@@ -33,8 +33,6 @@ public class Author {
     }
 
     // getter and setter methods
-
-
     public int getId() {
         return id;
     }

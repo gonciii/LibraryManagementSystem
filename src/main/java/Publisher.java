@@ -29,10 +29,11 @@ public class Publisher {
     @OneToMany(mappedBy = "publisher",cascade = CascadeType.ALL)
     private List<Book> bookList;
 
+    // empty constr.
     public Publisher(){
 
     }
-
+    // getter ve setter methods
     public int getId() {
         return id;
     }
@@ -82,5 +83,6 @@ public class Publisher {
                 ", address='" + address + '\'' +
                 '}';
     }
+
 }
 

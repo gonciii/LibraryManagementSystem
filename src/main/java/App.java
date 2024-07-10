@@ -8,14 +8,10 @@ public class App {
         EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("libraryManagement");
 
         // veri tabanı entityManager tarafından yönetilme adımı :
-
         EntityManager entityManager = entityManagerFactory.createEntityManager();
+
         //System.out.println("Veri tabanı bağlantısı oluştu !");
 
-//        // Transaction
-//        EntityTransaction entityTransaction = entityManager.getTransaction();
-//        entityTransaction.begin();
-//        entityTransaction.commit();
 
 
     }

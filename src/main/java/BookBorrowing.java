@@ -27,7 +27,7 @@ public class BookBorrowing {
     @JoinColumn(name = "borrowing_book_id",referencedColumnName = "book_id")
     private Book book;
 
-
+    // getter ve setter method
     public BookBorrowing() {
 
     }
