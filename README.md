@@ -1,6 +1,6 @@
 # Library Management System with Postgre SQL tables
 
-## Author
+## Authors
 
 ![authors](https://github.com/gonciii/LibraryManagementSystem/assets/114026990/6f6c9064-95dd-46bb-8b23-bcb2863f328a)
 
