@@ -12,7 +12,5 @@ public class App {
 
         //System.out.println("Veri tabanı bağlantısı oluştu !");
 
-
-
     }
 }
