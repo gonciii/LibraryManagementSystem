@@ -1,3 +1,22 @@
+# Library Mangement System 
+##### Bu proje, bir kütüphane yönetim sistemi uygulamasını içerir. Kütüphane sistemi, kitapların yönetimi, yazar bilgileri, kategoriler, yayınevleri ve ödünç alma işlemlerini izlemek için kullanılır.
+
+#### Kitap : Kitapların özelliklerini içeren entity/tablo.
+
+#### Yazar : Yazarların özelliklerini içeren entity/tablo.
+
+#### Kategori : Kitap kategorilerini içeren entity/tablo.
+
+#### Yayın Evi : Yayınevlerinin özelliklerini içeren entity/tablo.
+
+#### Kitap Ödünç Alınması : Kitap ödünç alma işlemlerini izleyen entity/tablo. Bu tablo, ödünç alınan kitabın kim tarafından alındığını, alınma tarihini ve teslim tarihini içerecektir.
+
+
+# Kullanılan Teknolojiler
+### Java
+### Maven 
+### PostgresSQL
+
 # Library Management System with Postgre SQL tables
 
 ## Authors
