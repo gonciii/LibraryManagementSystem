@@ -17,7 +17,7 @@
 ### Maven 
 ### PostgresSQL
 
-# Library Management System with Postgre SQL tables
+# VERİTABANI TABLOLARI 
 
 ## Authors
 
